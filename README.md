@@ -9,7 +9,7 @@ A modern PowerShell script to toggle the WiFi hotspot on Windows 10/11 without u
 ✔ **Task Scheduler Ready** - Perfect for automated startup/scheduled activation  
 ✔ **Comprehensive Logging** - Detailed logs for troubleshooting  
 ✔ **User-Friendly** - Remembers your adapter selection  
-✔ **Comodo Firewall Compatible** - Includes WiFi reset functionality  
+✔ **Firewall Compatible** - Includes WiFi reset functionality, for compatibility with firewalls such as Comodo
 
 ## Usage
 
