@@ -1,15 +1,15 @@
 # Windows Hotspot Toggle  
 
-A modern PowerShell script to toggle the WiFi hotspot on Windows 10/11 without using deprecated `netsh` commands.  
+PowerShell script to toggle the WiFi hotspot on Windows 10/11 without using deprecated `netsh` commands.  
 
 ## Features  
 
-✔ **Modern Implementation** - Uses Windows Runtime API instead of legacy `netsh`  
-✔ **Automatic Adapter Detection** - Finds WiFi adapters intelligently  
-✔ **Task Scheduler Ready** - Perfect for automated startup/scheduled activation  
-✔ **Comprehensive Logging** - Detailed logs for troubleshooting  
-✔ **User-Friendly** - Remembers your adapter selection  
-✔ **Firewall Compatible** - Includes WiFi reset functionality, for compatibility with firewalls such as Comodo
+**Modern Implementation** - Uses Windows Runtime API instead of legacy `netsh`  
+**Automatic Adapter Detection** - Finds WiFi adapters intelligently  
+**Task Scheduler Ready** - Perfect for automated startup/scheduled activation  
+**Comprehensive Logging** - Detailed logs for troubleshooting  
+**User-Friendly** - Remembers your adapter selection  
+**Firewall Compatible** - Includes WiFi reset functionality, for compatibility with firewalls such as Comodo
 
 ## Usage
 
